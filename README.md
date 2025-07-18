@@ -1,4 +1,4 @@
-## Seyun's GITHUB
+## Seyun's github (●'◡'●)ﾉ ケロロ~!
 
 I’m pursuing a Bachelor’s degree in LIS & Software at SKKU.
 I'm interested in AI, especially in computer vision. 
