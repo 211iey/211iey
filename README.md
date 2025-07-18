@@ -1,8 +1,15 @@
-## 🐸 Seyun's github 
-ﾉ(●'◡'●)ﾉ ケロロ~!
+##  Seyun's github 
+### 🐸 환영합니다~! welcome~ ようこそ~! Willkommen~! ﾉ(●'◡'●)ﾉ 
 
-- pursuing a Bachelor’s degree in LIS & Software at SKKU.<br>
-- interested in AI, especially in computer vision. 
+- I am pursuing a Bachelor’s degree in LIS & Software at SKKU.<br>
+- I am interested in AI, especially in computer vision.
+
+
+### 🛠 Tech Stack <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 <!--
 **211iey/211iey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
