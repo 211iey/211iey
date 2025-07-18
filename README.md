@@ -1,7 +1,8 @@
-## 🐸Seyun's github (●'◡'●)ﾉ ケロロ~!
+## 🐸 Seyun's github 
+ﾉ(●'◡'●)ﾉ ケロロ~!
 
-I’m pursuing a Bachelor’s degree in LIS & Software at SKKU.
-I'm interested in AI, especially in computer vision. 
+- pursuing a Bachelor’s degree in LIS & Software at SKKU.<br>
+- interested in AI, especially in computer vision. 
 <!--
 **211iey/211iey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
