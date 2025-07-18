@@ -1,5 +1,5 @@
 ##  Seyun's github 
-### 🐸 환영합니다~! welcome~ ようこそ~! Willkommen~! ﾉ(●'◡'●)ﾉ 
+### 🐸 환영합니다~! welcome~ ようこそ~! willkommen~! ﾉ(●'◡'●)ﾉ 
 
 - I am pursuing a Bachelor’s degree in LIS & Software at SKKU.<br>
 - I am interested in AI, especially in computer vision.
