@@ -8,11 +8,11 @@
 
 
 ### 🛠 Tech Stack <br>
-![Python](https://img.shields.io/badge/Python-2F5D50?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-2F5D50?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-2F5D50?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-2F5D50?style=for-the-badge&logo=r&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-2F5D50?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4F7F6A?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C-4F7F6A?style=for-the-badge&logo=c&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C++-4F7F6A?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
+![R](https://img.shields.io/badge/R-4F7F6A?style=for-the-badge&logo=r&logoColor=FFFFFF)
+![Verilog](https://img.shields.io/badge/Verilog-4F7F6A?style=for-the-badge&logoColor=FFFFFF)
 <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-E76F51?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-E76F51?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -29,7 +29,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-3A7CA5?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3A7CA5?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 <br>
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-5C677D?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5C677D?style=for-the-badge&logoColor=white)
 
