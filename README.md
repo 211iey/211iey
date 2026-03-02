@@ -14,23 +14,23 @@
 ![R](https://img.shields.io/badge/R-4F7F6A?style=for-the-badge&logo=r&logoColor=FFFFFF)
 ![Verilog](https://img.shields.io/badge/Verilog-4F7F6A?style=for-the-badge&logoColor=FFFFFF)
 <br>
-![PyTorch](https://img.shields.io/badge/PyTorch-E76F51?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-E76F51?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-E76F51?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-E76F51?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E6D38A?style=for-the-badge&logo=pytorch&logoColor=4F7F6A)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-E6D38A?style=for-the-badge&logo=scikitlearn&logoColor=4F7F6A)
+![NumPy](https://img.shields.io/badge/NumPy-E6D38A?style=for-the-badge&logo=numpy&logoColor=4F7F6A)
+![Pandas](https://img.shields.io/badge/Pandas-E6D38A?style=for-the-badge&logo=pandas&logoColor=4F7F6A)
 <br>
-![OpenCV](https://img.shields.io/badge/OpenCV-6C63FF?style=for-the-badge&logo=opencv&logoColor=white)
-![Torchvision](https://img.shields.io/badge/Torchvision-6C63FF?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4F7F6A?style=for-the-badge&logo=opencv&logoColor=FFFFFF)
+![Torchvision](https://img.shields.io/badge/Torchvision-4F7F6A?style=for-the-badge&logo=pytorch&logoColor=FFFFFF)
 <br>
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F4D35E?style=for-the-badge&logo=huggingface&logoColor=000000)
-![LangChain](https://img.shields.io/badge/LangChain-F4D35E?style=for-the-badge&logo=chainlink&logoColor=000000)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-E6D38A?style=for-the-badge&logo=huggingface&logoColor=4F7F6A)
+![LangChain](https://img.shields.io/badge/LangChain-E6D38A?style=for-the-badge&logo=chainlink&logoColor=4F7F6A)
 <br>
-![FastAPI](https://img.shields.io/badge/FastAPI-3A7CA5?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3A7CA5?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3A7CA5?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-4F7F6A?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-4F7F6A?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4F7F6A?style=for-the-badge&logo=sqlalchemy&logoColor=FFFFFF)
 <br>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-5C677D?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-5C677D?style=for-the-badge&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-B94A48?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Seaborn](https://img.shields.io/badge/Seaborn-B94A48?style=for-the-badge&logoColor=FFFFFF)
 
 <!--
 **211iey/211iey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
