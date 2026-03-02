@@ -6,8 +6,6 @@
 - B.S. student in LIS & CSE at SKKU <br>  
 - Especially interested in Computer Vision, Multimodal Learning, and RAG <br>
 
-<br>
-<br>
 
 ### 🛠 Tech Stack <br>
 ![Python](https://img.shields.io/badge/Python-4F7F6A?style=flat&logo=python&logoColor=FFFFFF)
