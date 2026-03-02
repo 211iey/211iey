@@ -10,6 +10,13 @@
 <br>
 
 ### 🛠 Tech Stack <br>
+![Python](https://img.shields.io/badge/Python-4F7F6A?style=flat&logo=python&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C-4F7F6A?style=flat&logo=c&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C++-4F7F6A?style=flat&logo=cplusplus&logoColor=FFFFFF)
+![R](https://img.shields.io/badge/R-4F7F6A?style=flat&logo=r&logoColor=FFFFFF)
+![Verilog](https://img.shields.io/badge/Verilog-4F7F6A?style=flat&logoColor=FFFFFF)
+
+
 ![Python](https://img.shields.io/badge/Python-4F7F6A?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/C-4F7F6A?style=for-the-badge&logo=c&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C++-4F7F6A?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
