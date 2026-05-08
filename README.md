@@ -12,7 +12,8 @@
 
 👋 Hi, I'm Seyun!
 
-- B.S. student in LIS & CSE at SKKU <br>  
+- B.S. student in LIS & CSE at SKKU <br>
+- ML engineer Intern in Naver <br> 
 - Especially interested in Computer Vision, Multimodal Learning, and RAG <br>
 
 
