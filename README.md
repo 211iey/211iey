@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=4F7F6A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Seyun!;Computer+Vision+%7C+Multimodal+Learning+%7C+RAG;LIS+%26+CSE+Student+at+SKKU;Building+AI+that+connects+vision+and+language" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F7F6A,100:E6D38A&height=180&section=header&text=Welcome%20to%20Seyun's%20Github!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+
 ##  Seyun's github 
 ### 🐸 환영합니다~! welcome~ ようこそ~! willkommen~! ﾉ(●'◡'●)ﾉ 
 
