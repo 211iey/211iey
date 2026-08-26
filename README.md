@@ -18,30 +18,32 @@
 
 
 ### 🛠 Tech Stack <br>
+
+<!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-4F7F6A?style=flat&logo=python&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-4F7F6A?style=flat&logo=openjdk&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-4F7F6A?style=flat&logo=javascript&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-4F7F6A?style=flat&logo=typescript&logoColor=FFFFFF)
+![Go](https://img.shields.io/badge/Go-4F7F6A?style=flat&logo=go&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/C-4F7F6A?style=flat&logo=c&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C++-4F7F6A?style=flat&logo=cplusplus&logoColor=FFFFFF)
-![R](https://img.shields.io/badge/R-4F7F6A?style=flat&logo=r&logoColor=FFFFFF)
-![Verilog](https://img.shields.io/badge/Verilog-4F7F6A?style=flat&logoColor=FFFFFF)
 <br>
-![PyTorch](https://img.shields.io/badge/PyTorch-E6D38A?style=flat&logo=pytorch&logoColor=4F7F6A)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-E6D38A?style=flat&logo=scikitlearn&logoColor=4F7F6A)
-![NumPy](https://img.shields.io/badge/NumPy-E6D38A?style=flat&logo=numpy&logoColor=4F7F6A)
-![Pandas](https://img.shields.io/badge/Pandas-E6D38A?style=flat&logo=pandas&logoColor=4F7F6A)
+<!-- Backend / Framework -->
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-E6D38A?style=flat&logo=springboot&logoColor=4F7F6A)
+![FastAPI](https://img.shields.io/badge/FastAPI-E6D38A?style=flat&logo=fastapi&logoColor=4F7F6A)
 <br>
-![OpenCV](https://img.shields.io/badge/OpenCV-4F7F6A?style=flat&logo=opencv&logoColor=FFFFFF)
-![Torchvision](https://img.shields.io/badge/Torchvision-4F7F6A?style=flat&logo=pytorch&logoColor=FFFFFF)
+<!-- AI / ML -->
+![PyTorch](https://img.shields.io/badge/PyTorch-4F7F6A?style=flat&logo=pytorch&logoColor=FFFFFF)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-4F7F6A?style=flat&logo=huggingface&logoColor=FFFFFF)
+![LangChain](https://img.shields.io/badge/LangChain-4F7F6A?style=flat&logo=langchain&logoColor=FFFFFF)
 <br>
-![HuggingFace](https://img.shields.io/badge/HuggingFace-E6D38A?style=flat&logo=huggingface&logoColor=4F7F6A)
-![LangChain](https://img.shields.io/badge/LangChain-E6D38A?style=flat&logo=chainlink&logoColor=4F7F6A)
-<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-4F7F6A?style=flat&logo=fastapi&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-4F7F6A?style=flat&logo=mysql&logoColor=FFFFFF)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4F7F6A?style=flat&logo=sqlalchemy&logoColor=FFFFFF)
-<br>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-B94A48?style=flat&logo=python&logoColor=FFFFFF)
-![Seaborn](https://img.shields.io/badge/Seaborn-B94A48?style=flat&logoColor=FFFFFF)
-
+<!-- Database / Infrastructure -->
+![MySQL](https://img.shields.io/badge/MySQL-E6D38A?style=flat&logo=mysql&logoColor=4F7F6A)
+![Redis](https://img.shields.io/badge/Redis-E6D38A?style=flat&logo=redis&logoColor=4F7F6A)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-E6D38A?style=flat&logo=apachekafka&logoColor=4F7F6A)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-E6D38A?style=flat&logo=rabbitmq&logoColor=4F7F6A)
+![Docker](https://img.shields.io/badge/Docker-E6D38A?style=flat&logo=docker&logoColor=4F7F6A)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-E6D38A?style=flat&logo=kubernetes&logoColor=4F7F6A)
 <!--
 **211iey/211iey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
