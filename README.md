@@ -27,23 +27,21 @@
 ![Go](https://img.shields.io/badge/Go-4F7F6A?style=flat&logo=go&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/C-4F7F6A?style=flat&logo=c&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C++-4F7F6A?style=flat&logo=cplusplus&logoColor=FFFFFF)
-<br>
-<!-- Backend / Framework -->
+![R](https://img.shields.io/badge/R-4F7F6A?style=flat&logo=r&logoColor=FFFFFF)
+![Verilog](https://img.shields.io/badge/Verilog-4F7F6A?style=flat&logoColor=FFFFFF) <br>
+<!-- Frameworks -->
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-E6D38A?style=flat&logo=springboot&logoColor=4F7F6A)
 ![FastAPI](https://img.shields.io/badge/FastAPI-E6D38A?style=flat&logo=fastapi&logoColor=4F7F6A)
-<br>
-<!-- AI / ML -->
-![PyTorch](https://img.shields.io/badge/PyTorch-4F7F6A?style=flat&logo=pytorch&logoColor=FFFFFF)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-4F7F6A?style=flat&logo=huggingface&logoColor=FFFFFF)
-![LangChain](https://img.shields.io/badge/LangChain-4F7F6A?style=flat&logo=langchain&logoColor=FFFFFF)
-<br>
-<!-- Database / Infrastructure -->
-![MySQL](https://img.shields.io/badge/MySQL-E6D38A?style=flat&logo=mysql&logoColor=4F7F6A)
-![Redis](https://img.shields.io/badge/Redis-E6D38A?style=flat&logo=redis&logoColor=4F7F6A)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-E6D38A?style=flat&logo=apachekafka&logoColor=4F7F6A)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-E6D38A?style=flat&logo=rabbitmq&logoColor=4F7F6A)
-![Docker](https://img.shields.io/badge/Docker-E6D38A?style=flat&logo=docker&logoColor=4F7F6A)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-E6D38A?style=flat&logo=kubernetes&logoColor=4F7F6A)
+![React](https://img.shields.io/badge/React-E6D38A?style=flat&logo=react&logoColor=4F7F6A)
+![PyTorch](https://img.shields.io/badge/PyTorch-E6D38A?style=flat&logo=pytorch&logoColor=4F7F6A) <br>
+<!-- Infrastructure & Database -->
+![Docker](https://img.shields.io/badge/Docker-4F7F6A?style=flat&logo=docker&logoColor=FFFFFF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-4F7F6A?style=flat&logo=kubernetes&logoColor=FFFFFF)
+![Nginx](https://img.shields.io/badge/Nginx-4F7F6A?style=flat&logo=nginx&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-4F7F6A?style=flat&logo=mysql&logoColor=FFFFFF)
+![Redis](https://img.shields.io/badge/Redis-4F7F6A?style=flat&logo=redis&logoColor=FFFFFF)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-4F7F6A?style=flat&logo=apachekafka&logoColor=FFFFFF)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-4F7F6A?style=flat&logo=rabbitmq&logoColor=FFFFFF)
 <!--
 **211iey/211iey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
