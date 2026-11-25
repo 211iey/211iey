@@ -12,7 +12,7 @@
 
 👋 Hi, I'm Seyun!
 
-- B.S. student in LIS & CSE at SKKU <br>
+- B.S. student in LIS & CSE at SKKU(2023.03 ~ expected 2027.08) <br>
 - ML engineer Intern in Naver(2026.03 ~ 2026.06) / AI engineer Intern in IBM(2026.07 ~ 2026.09)<br> 
 - Especially interested in Computer Vision, Multimodal Learning, and RAG <br>
 
